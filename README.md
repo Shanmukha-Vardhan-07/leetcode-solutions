@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [3866-first-unique-even-element](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Counting
 |  |
