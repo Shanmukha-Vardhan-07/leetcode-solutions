@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -14,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Counting
 |  |
 | ------- |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
