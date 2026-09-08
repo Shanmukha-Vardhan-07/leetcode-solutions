@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/3866-first-unique-even-element) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
