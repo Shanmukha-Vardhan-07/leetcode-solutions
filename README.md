@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## String Matching
 |  |
 | ------- |
