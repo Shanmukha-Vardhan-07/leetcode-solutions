@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0326-power-of-three) |
 | [3945-digit-frequency-score](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
