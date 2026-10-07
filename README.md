@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [3945-digit-frequency-score](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0441-arranging-coins](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shanmukha-Vardhan-07/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
